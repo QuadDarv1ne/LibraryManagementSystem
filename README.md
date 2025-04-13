@@ -44,3 +44,15 @@ LibraryManagementSystem/
 Этот проект распространяется под лицензией `MIT`
 
 **Подробнее см. в файле LICENSE.**
+
+---
+
+[Telegram (первый) - Maxim Dupley](https://t.me/quadd4rv1n7)
+
+[Telegram (второй) - Maxim Dupley](https://t.me/dupley_maxim_1999)
+
+[Ссылка на курсы Stepik](https://stepik.org/users/150943726/profile)
+
+**Автор:** Дуплей Максим Игоревич
+
+**Дата:** 13.04.2025
